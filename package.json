@@ -1,0 +1,26 @@
+{
+  "name": "filesystem",
+  "version": "1.0.0",
+  "description": "My Node.js application",
+  "main": "app.js",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "scripts": {
+    "start": "nodemon app.js",
+    "debug": "nodemon --inspect-brk=0.0.0.0:9229 app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ravi8921/Nodejs_assignment.git"
+  },
+  "keywords": [
+    "Node.js"
+  ],
+  "author": "ravi kant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ravi8921/Nodejs_assignment/issues"
+  },
+  "homepage": "https://github.com/Ravi8921/Nodejs_assignment#readme"
+}
