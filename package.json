@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.2",
+    "path": "^0.12.7"
+  },
+  "name": "nodejs_assignment-router-filter",
+  "description": "assignment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "ravi",
+  "license": "ISC"
+}
